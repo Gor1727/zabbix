@@ -16,7 +16,7 @@
             <description>Мониторинг квоты диска аккаунта cPanel, автообнаружение (LLD) почтовых ящиков и отслеживание критических ошибок доставки через UAPI / API 2 без внешних скриптов.</description>
             <groups>
                 <group>
-                    <name>Templates/Applications</name>
+                    <name>Templates</name>
                 </group>
             </groups>
             <items>
